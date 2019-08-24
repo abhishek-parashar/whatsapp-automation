@@ -1,3 +1,3 @@
 # whatsapp-automation
 automates sending message on whatsapp.
-This program is cappable of sending multiple messages to groups.
+This program is capable of sending multiple messages to groups.
